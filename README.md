@@ -186,15 +186,6 @@ python src/data_prep.py
 python -c "from src.utils import load_nslkdd; print(load_nslkdd('data/KDDTrain+.txt').shape)"
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
@@ -205,10 +196,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - NSL-KDD Dataset creators
 - XGBoost and TensorFlow/Keras communities
 - scikit-learn and imbalanced-learn libraries
-
-## 📧 Contact
-
-Project Link: [https://github.com/yourusername/network-ids](https://github.com/yourusername/network-ids)
+  
 
 ## 🔮 Future Improvements
 
@@ -219,3 +207,4 @@ Project Link: [https://github.com/yourusername/network-ids](https://github.com/y
 - [ ] Add more deep learning models (LSTM, CNN)
 - [ ] Implement cross-validation
 - [ ] Add hyperparameter tuning with GridSearch/RandomSearch
+
